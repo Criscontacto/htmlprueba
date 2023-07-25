@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{924C4407-3166-40A3-9743-0D56ABB19FA4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\hero-img.png = ..\..\..\Downloads\hero-img.png
+		HTMLPage1.html = HTMLPage1.html
+		..\..\..\Downloads\logo.svg = ..\..\..\Downloads\logo.svg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{F8274C0F-079F-4B21-A7E9-EB7BA61BCEB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sources", "sources", "{52383774-5B38-4DF5-A8C4-F9A3B06727D2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\hero-img.png = ..\..\..\Downloads\hero-img.png
+		..\..\..\Downloads\logo.svg = ..\..\..\Downloads\logo.svg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8274C0F-079F-4B21-A7E9-EB7BA61BCEB5} = {924C4407-3166-40A3-9743-0D56ABB19FA4}
+		{52383774-5B38-4DF5-A8C4-F9A3B06727D2} = {F8274C0F-079F-4B21-A7E9-EB7BA61BCEB5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B0CCA6-48C2-4A38-9958-26AB1D27D697}
+	EndGlobalSection
+EndGlobal
